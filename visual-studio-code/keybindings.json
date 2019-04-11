@@ -4,5 +4,5 @@
                                      "when": "!terminalFocus" },
     { "key": "ctrl+d",          "command": "editor.action.deleteLines",
     "when": "editorTextFocus && !editorReadonly" },
-
+    { "key": "ctrl+shift+r",                "command": "workbench.action.quickOpen" },
 ]
